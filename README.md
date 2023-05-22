@@ -4,7 +4,7 @@ I’m a research scientist, Python programmer, and cognitive neuroscientist, cur
 
       👃🏻 Deciphering the neural correlates of odor perception and memory
   
-      👩🏻‍🍳 Exploring creativity in chefs and wine experts
+      👩🏻‍🍳 Exploring dexterity and creativity in chefs and wine experts
 
   - Professional website: [research-ipb.com/alsaive](http://research.institutpaulbocuse.com/en/team/anne-lise-saive--15954.kjsp?RH=RECH-EN)
   - LinkedIn page: [linkedin.com/alsaive](https://www.linkedin.com/in/anne-lise-saive-748a36a6/)
