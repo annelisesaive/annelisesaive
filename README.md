@@ -2,7 +2,7 @@ Hi there!
 
 I’m a research scientist, Python programmer, and cognitive neuroscientist, currently aiming at
 
-      👃🏻 Deciphering the neural correlates of odor perception and memory
+      👃🏻 Uncovering the functional interactions between olfaction, spatial navigation and memory
   
       👩🏻‍🍳 Exploring dexterity and creativity in chefs and wine experts
 
