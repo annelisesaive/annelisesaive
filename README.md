@@ -1,15 +1,10 @@
-Hi there!
+Hi — I’m Anne-Lise, a neuroscience PhD and applied data scientist.
 
-I’m a research scientist, Python programmer, and cognitive neuroscientist, currently aiming at
+I build measurement + analysis pipelines that turn real-world human data (behavior, sensory experience, text) into interpretable outcomes — and translate findings into product-ready insights for personalized health and nutrition.
 
-      👃🏻 Uncovering the functional interactions between olfaction, spatial navigation and memory
-  
-      👩🏻‍🍳 Exploring dexterity and creativity in chefs and wine experts
+Pinned projects:
+- DeepFooding-CDL — quantify eating behavior from meal videos (pose tracking → events/features)
+- Chatbot_Wine_Memory — semi-structured interviews to capture memorable food/wine experiences as analyzable data
+- Wine_tasting_KG — clean ~130k reviews and build a knowledge graph linking descriptors, regions, and ratings
 
-  - Professional website: [research-ipb.com/alsaive](http://research.institutpaulbocuse.com/en/team/anne-lise-saive--15954.kjsp?RH=RECH-EN)
-  - LinkedIn page: [linkedin.com/alsaive](https://www.linkedin.com/in/anne-lise-saive-748a36a6/)
-  - Twitter page: [twitter.com/AnneLiseSaive](https://twitter.com/AnneLiseSaive)
-<!---
-annelisesaive/annelisesaive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Links: [LinkedIn](https://www.linkedin.com/in/anne-lise-saive-748a36a6/) | [Substack](https://annelisesaive.substack.com/) | [Google Scholar](https://scholar.google.com/citations?user=UsutpLQAAAAJ&hl=en&oi=ao)
