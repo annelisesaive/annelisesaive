@@ -1,11 +1,44 @@
-Hi! I’m Anne-Lise, a neuroscience PhD and applied data scientist.
+## Hi, I'm Anne-Lise
 
-I build measurement + analysis pipelines that turn real-world human data (behavior, sensory experience, text) into interpretable outcomes — and translate findings into product-ready insights for personalized health and nutrition.
+Applied ML researcher. I build models that recover latent structure from
+noisy real-world neural, physiological, linguistic and behavioral signals.
 
-Pinned projects:
-- [DeepFooding](https://github.com/annelisesaive/DeepFooding-CDL) — quantify eating behavior from meal videos (pose tracking → events/features)
-- [Memorable Scents](https://github.com/jltt-grc/memorable_scents) — Predictive modeling of odor memory (ML & Stats)
-- [Chatbot_Wine_Memory](https://github.com/annelisesaive/Chatbot_Wine_Memory) — semi-structured interviews to decode and characterize food/wine experiences
-- [Wine_tasting_KG](https://github.com/annelisesaive/Wine_tasting_KG) — clean ~130k reviews and build a knowledge graph linking descriptors, regions, and ratings
+**Current focus:** rigorous evaluation and calibrated inference on messy
+real-world data. Time-series and language models, honest nulls,
+abstention over fluency.
 
-Links: [LinkedIn](https://www.linkedin.com/in/anne-lise-saive-748a36a6/) | [Substack](https://annelisesaive.substack.com/) | [Google Scholar](https://scholar.google.com/citations?user=UsutpLQAAAAJ&hl=en&oi=ao)
+**Background:** PhD, Cognitive Neuroscience (Université Claude Bernard
+Lyon 1). Tenured Research Scientist at Institut Lyfe. Visiting Researcher
+at the Champalimaud Foundation (Lisbon). Postdoc at CoCo Lab / UdeM
+(Mila-affiliated). 
+
+**Open-source:** contributor to
+[NeuroPycon](https://github.com/neuropycon) (*NeuroImage* 2020) and
+[Visbrain](https://github.com/EtienneCmb/visbrain)
+(*Frontiers in Neuroinformatics* 2019).
+
+### Selected projects
+
+- **[DeepFooding](https://github.com/annelisesaive/DeepFooding-CDL)** —
+  eating-behavior quantification from meal videos. CLIP / X-CLIP /
+  SlowFast, continuous-target bite detection, hierarchical food-type
+  classification.
+- **[Memorable Scents](https://github.com/jltt-grc/memorable_scents)** —
+  predictive modeling of odor-evoked memory (RF / XGBoost + SHAP,
+  N=106). *iScience* 2026.
+- **[Chatbot Wine Memory](https://github.com/annelisesaive/Chatbot_Wine_Memory)** —
+  adaptive dialogue for semi-structured sensory-memory elicitation.
+- **[Wine Tasting KG](https://github.com/annelisesaive/Wine_tasting_KG)** —
+  ~130k wine reviews cleaned and structured into a knowledge graph
+  linking descriptors, regions, and ratings.
+
+### Writing
+
+[Flavors of Science](https://annelisesaive.substack.com/) — a newsletter
+on flavor, memory, and AI for industry and curious humans.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/anne-lise-saive-748a36a6/) ·
+[Google Scholar](https://scholar.google.com/citations?user=UsutpLQAAAAJ) ·
+[Substack](https://annelisesaive.substack.com/)
