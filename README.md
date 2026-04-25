@@ -26,11 +26,12 @@ at the Champalimaud Foundation (Lisbon). Postdoc at CoCo Lab / UdeM
 - **[Memorable Scents](https://github.com/jltt-grc/memorable_scents)**
   predictive modeling of odor-evoked memory (RF / XGBoost + SHAP,
   N=106). *iScience* 2026.
+- **[Wine Tasting KG](https://github.com/annelisesaive/Wine_tasting_KG)**
+  knowledge graph and price-quality analysis on ~130k wine reviews. Powers
+  [QualitySip](https://wine-search.streamlit.app/), a Streamlit app for
+  value-for-money wine discovery.
 - **[Chatbot Wine Memory](https://github.com/annelisesaive/Chatbot_Wine_Memory)**
   adaptive dialogue for semi-structured sensory-memory elicitation.
-- **[Wine Tasting KG](https://github.com/annelisesaive/Wine_tasting_KG)**
-  ~130k wine reviews cleaned and structured into a knowledge graph
-  linking descriptors, regions, and ratings.
 
 ### Writing
 
